@@ -2,7 +2,8 @@
     "servers": [
         {
             "name": "servercsn",
-            "address": "https://sidestore-refresh-ugt5.onrender.com/"
+            "address": "https://csnyserver.onrender.com/"
         }
     ]
 }
+
